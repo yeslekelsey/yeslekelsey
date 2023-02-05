@@ -20,5 +20,5 @@
 </a>
 <a href="https://www.linkedin.com/in/kelsey-mcintyre-9806a6230/" target=_blank><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin" width=50px></a>
 <h2>My Website:</h2>
-<em>Documenting my compeititve programming journey (and learning C++)!</em><br>
+<em>Documenting my competitive programming journey (and learning C++)!</em><br>
 <a href="https://learncppwithme.github.io/" target=_blank>Learn C++ With Me</a>
