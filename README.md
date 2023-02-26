@@ -1,6 +1,6 @@
 <h1>Welcome to my Github!</h1>
 <h2>My name is Kelsey, a sophomore from Cranford, New Jersey!</h2>
-<p>Currently, I am working on <a href="http://www.usaco.org/" target="_blank">USACO</a> competitive programming 😲</p>
+<p>Currently, I am working on <a href="http://www.usaco.org/" target="_blank">USACO</a> competitive programming in the Bronze division 😲 </p>
 <h2>Languages I use:</h2>
 <a href="https://cplusplus.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width=50px>
 </a>
